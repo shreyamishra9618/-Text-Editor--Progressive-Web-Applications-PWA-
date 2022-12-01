@@ -1,5 +1,6 @@
 # Text-Editor--Progressive-Web-Applications-PWA-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## Deployed link: (https://text-editor-pwa-sm.herokuapp.com/)
 
   ## Table of Contents
 - [Description](#description)
@@ -22,7 +23,7 @@
   ## Installation
   to install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json. 
   ## Usage
-  To use this app, simply open it up in the browser (this link) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
+  To use this app, simply open it up in the browser (https://text-editor-pwa-sm.herokuapp.com/) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
   ## Contributors
   No additional contributors on this project. 
   ## Testing
